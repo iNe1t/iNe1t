@@ -15,7 +15,8 @@
 
 ## Some cups (idk wtf is that)
 ![trophy](https://github-profile-trophy.vercel.app/?username=iNe1t&theme=alduin)
-Everything about me:
+
+## Everything about me:
 
 - 🔭 I’m currently working on: idk, maybe my site
 - 🌱 I’m currently learning: Excel
