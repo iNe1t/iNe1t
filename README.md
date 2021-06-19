@@ -16,7 +16,7 @@
 
 ## Some links
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
+[![Instagram Badge](https://img.shields.io/badge/-ine1t-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
 [![Gmail Badge](https://img.shields.io/badge/-fantiktop212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fantiktop212@gmail.com)](mailto:fantiktop212@gmail.com)
 
 ## What i know & Can
