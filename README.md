@@ -6,10 +6,10 @@
 
 <br>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=20004a&langs_count=5" />
 </a>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=5100ba" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=20004a" alt="Martin's GitHub Stats" />
 </a>
 <br>
 
