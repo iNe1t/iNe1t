@@ -4,10 +4,10 @@
 
 <br>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ff75fa&text_color=f266b8&icon_color=4AB197&bg_color=20004a&langs_count=5" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ff75fa&text_color=f266b8&icon_color=4AB197&bg_color=FF00E9,4300FF,B378FF&langs_count=3" />
 </a>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ff75fa&text_color=f266b8&icon_color=ffff00&bg_color=20004a" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ff75fa&text_color=f266b8&icon_color=ffff00&bg_color=FF00E9,4300FF,B378FF" alt="Martin's GitHub Stats" />
 </a>
 <br>
 
@@ -18,6 +18,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-ine1t-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
 [![Gmail Badge](https://img.shields.io/badge/-fantiktop212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fantiktop212@gmail.com)](mailto:fantiktop212@gmail.com)
+## My Site 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ne1texclub.000webhostapp.com/)](https://ne1texclub.000webhostapp.com/)
 
 ## What i know & Can
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
