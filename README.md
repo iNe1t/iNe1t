@@ -24,8 +24,9 @@
 ![Java](https://img.shields.io/badge/-java-620085?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-620085?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-620085?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-620085?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-620085?style=flat-square&logo=bootstrap)https://img.shields.io/badge/
 ![Git](https://img.shields.io/badge/-Git-620085?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-620085?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-620085?style=flat-square&logo=Raspberry-Pi)
+![Not_Found](https://img.shields.io/badge/-620085)
 
