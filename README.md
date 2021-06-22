@@ -16,8 +16,8 @@
 
 ## Some links and skills
 
-[![Instagram Badge](https://img.shields.io/badge/-ine1t-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
-[![Gmail Badge](https://img.shields.io/badge/-fantiktop212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fantiktop212@gmail.com)](mailto:fantiktop212@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-ine1t-620085?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
+[![Gmail Badge](https://img.shields.io/badge/-fantiktop212@gmail.com-620085?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fantiktop212@gmail.com)](mailto:fantiktop212@gmail.com)
 [![website](https://img.shields.io/badge/Website-620085.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ne1texclub.000webhostapp.com/)](https://ne1texclub.000webhostapp.com/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-620085?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-620085?style=flat-square&logo=Python)
