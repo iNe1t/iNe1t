@@ -19,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-ine1t-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ine1t/)](https://instagram.com/ine1t)
 [![Gmail Badge](https://img.shields.io/badge/-fantiktop212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fantiktop212@gmail.com)](mailto:fantiktop212@gmail.com)
 ## My Site 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ne1texclub.000webhostapp.com/)](https://ne1texclub.000webhostapp.com/)
+[![website](https://img.shields.io/badge/Website-390085.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ne1texclub.000webhostapp.com/)](https://ne1texclub.000webhostapp.com/)
 
 ## What i know & Can
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
