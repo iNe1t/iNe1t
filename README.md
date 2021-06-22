@@ -4,10 +4,10 @@
 
 <br>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ff75fa&text_color=f266b8&icon_color=4AB197&bg_color=FF00E9,4300FF,620085&langs_count=3" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=FF00E9,4300FF,620085&langs_count=3" />
 </a>
 <a href="https://github.com/iNe1t">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ff75fa&text_color=f266b8&icon_color=ffff00&bg_color=FF00E9,4300FF,620085" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iNe1t&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffff00&bg_color=FF00E9,4300FF,620085" alt="Martin's GitHub Stats" />
 </a>
 <br>
 
