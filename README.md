@@ -12,7 +12,7 @@
 <br>
 
 ## Some cups (idk wtf is that)
-![trophy](https://github-profile-trophy.vercel.app/?username=iNe1t&theme=dracula)
+![trophys](https://github-profile-trophy.vercel.app/?username=iNe1t&theme=dracula)
 
 ## Some links and skills
 
@@ -28,5 +28,4 @@
 ![Git](https://img.shields.io/badge/-Git-620085?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-620085?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-620085?style=flat-square&logo=Raspberry-Pi)
-![Not_Found](https://img.shields.io/badge/-620085)
 
