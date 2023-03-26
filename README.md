@@ -2,7 +2,6 @@
 
 ## Stats
 
-<br>
 <a href="https://github.com/iNe1t">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNe1t&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=4AB197&bg_color=FF00E9,4300FF,620085&langs_count=3" />
 </a>
